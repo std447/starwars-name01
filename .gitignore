@@ -1,0 +1,16 @@
+# Node Modules
+node_modules
+package-lock.json
+
+#dotenv
+.env
+
+# npmrc
+.npmrc
+
+# Local vs code config
+.vscode
+.vs
+
+# notes ideas etc
+.idea
